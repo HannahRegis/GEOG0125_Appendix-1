@@ -1,0 +1,38 @@
+Node,Land,LandColour,BT_Parade,BT_NoParade,Class,ClassShape,Class Colour,Parade Route,Parade Colour,Ride Type,Ride Type Colour,BigThrills,BigThrillColour,ParadeNode,ParadeLab,NodeSLabel,PPColour_NP,PPColour_P
+Entrance,Main Street USA,#D2242D,#CCCCBE,#CCCCBE,Entrance,Square,#FFFE00,YES,#FF3200,NA,#CCCCBE,NA,#CCCCBE,#443C3C,Entrance,Ent,#CCCCBE,#CCCCBE
+LSB,Main Street USA,#D2242D,#CCCCBE,#434E9F,Pathway,Square,#00CDFF,YES,#FF3200,NA,#CCCCBE,NA,#CCCCBE,#443C3C,LSB,LSB,#CCCCBE,#CCCCBE
+ALB,Main Street USA,#D2242D,#BA0A30,#CCCCBE,Pathway,Square,#00CDFF,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,ALB,#CCCCBE,#CCCCBE
+TLB,Main Street USA,#D2242D,#CCCCBE,#CCCCBE,Pathway,Square,#00CDFF,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#443C3C,TLB,TLB,#CCCCBE,#CCCCBE
+FLB,Main Street USA,#D2242D,#CCCCBE,#CCCCBE,Pathway,Square,#00CDFF,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#443C3C,FLB,FLB,#CCCCBE,#BA0A30
+Cinderella's Castle,Fantasyland,#D7147D,#BA0A30,#434E9F,Attraction,Circle,#FF3200,YES,#FF3200,NA,#CCCCBE,NA,#CCCCBE,#443C3C,Cinderella's Castle,CC,#434E9F,#BA0A30
+Swiss Family Treehouse,Adventureland,#F78A2F,#BA0A30,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,SFT,#CCCCBE,#CCCCBE
+The Magic Carpets of Aladdin,Adventureland,#F78A2F,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,MCOA,#CCCCBE,#CCCCBE
+Jungle Cruise,Adventureland,#F78A2F,#BA0A30,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,JC,#CCCCBE,#CCCCBE
+Enchanted Tiki Room,Adventureland,#F78A2F,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,ETR,#CCCCBE,#CCCCBE
+Pirates of the Caribbean,Adventureland,#F78A2F,#BA0A30,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,Drop or Thrill,#ffffb2,Pirates of the Caribbean,#434E9F,#CCCCBE,NA,POTC,#CCCCBE,#CCCCBE
+ALB1,Adventureland,#F78A2F,#CCCCBE,#434E9F,Pathway,Square,#00CDFF,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#443C3C,ALB1,ALB1,#CCCCBE,#CCCCBE
+FLB1,Frontierland,#856858,#BA0A30,#434E9F,Pathway,Square,#00CDFF,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#443C3C,FLB1,FLB1,#CCCCBE,#CCCCBE
+Splash Mountain,Frontierland,#856859,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,YES,#FF3200,Drop or Thrill,#fed976,Splash Mountain,#56428C,#443C3C,Splash Mountain,SM,#CCCCBE,#CCCCBE
+Big Thunder Mountain Railroad,Frontierland,#856860,#BA0A30,#434E9F,Attraction,Circle,#FF3200,NO,#000000,Drop or Thrill,#feb24c,Big Thunder Mountain Railroad,#6A377A,#CCCCBE,NA,BTM,#CCCCBE,#CCCCBE
+Country Bear Jamboree,Frontierland,#856861,#CCCCBE,#434E9F,Attraction,Circle,#FF3200,YES,#FF3200,NA,#CCCCBE,NA,#CCCCBE,#443C3C,Country Bear Jamboree,CBJ,#CCCCBE,#CCCCBE
+The Hall of Presidents,Liberty Square,#1AB1E6,#CCCCBE,#434E9F,Attraction,Circle,#FF3200,YES,#FF3200,NA,#CCCCBE,NA,#CCCCBE,#443C3C,The Hall of Presidents,HOP,#CCCCBE,#CCCCBE
+Haunted Mansion,Liberty Square,#1AB1E7,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,HM,#CCCCBE,#CCCCBE
+Liberty Square Riverboat,Liberty Square,#1AB1E8,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,YES,#FF3200,NA,#CCCCBE,NA,#CCCCBE,#443C3C,Liberty Square Riverboat,LSR,#CCCCBE,#CCCCBE
+FLB2,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Pathway,Square,#00CDFF,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,FLB2,#CCCCBE,#CCCCBE
+Prince Charming Regal Carrousel,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,PCRC,#434E9F,#BA0A30
+Peter Pan's Flight,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,Drop or Thrill,#fd8d3c,Peter Pan's Flight,#7E2C67,#CCCCBE,NA,PPF,#434E9F,#BA0A30
+It's a Small World,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,IASW,#CCCCBE,#CCCCBE
+Under the Sea - Journey of The Little Mermaid,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,UTS,#CCCCBE,#CCCCBE
+The Barnstormer,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,Drop or Thrill,#fc4e2a,The Barnstormer,#902156,#CCCCBE,NA,TB,#CCCCBE,#CCCCBE
+Dumbo the Flying Elephant,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,DFE,#CCCCBE,#CCCCBE
+Mad Tea Party,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,MTP,#CCCCBE,#BA0A30
+The Many Adventures of Winnie the Pooh,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,MAOWTP,#CCCCBE,#BA0A30
+Seven Dwarfs Mine Train,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,Drop or Thrill,#e31a1c,Seven Dwarfs Mine Train,#A61542,#CCCCBE,NA,SDMT,#CCCCBE,#CCCCBE
+BC,Fantasyland,#D7147D,#CCCCBE,#CCCCBE,Pathway,Square,#00CDFF,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,BC,#CCCCBE,#CCCCBE
+Tomorrowland Speedway,Tomorrowland,#254389,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,TS,#CCCCBE,#CCCCBE
+Space Mountain,Tomorrowland,#254390,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,Drop or Thrill,#b10026,Space Mountain,#BA0A30,#CCCCBE,NA,SPM,#CCCCBE,#CCCCBE
+Astro Orbiter,Tomorrowland,#254391,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,AO,#CCCCBE,#CCCCBE
+PeopleMover,Tomorrowland,#254392,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,PM,#CCCCBE,#CCCCBE
+Carousel of Progress,Tomorrowland,#254393,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,COP,#CCCCBE,#CCCCBE
+Buzz Lightyear's Space Ranger Spin,Tomorrowland,#254394,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,BLSRS,#CCCCBE,#CCCCBE
+Monsters Inc. Laugh Floor,Tomorrowland,#254395,#CCCCBE,#CCCCBE,Attraction,Circle,#FF3200,NO,#000000,NA,#CCCCBE,NA,#CCCCBE,#CCCCBE,NA,MINC,#CCCCBE,#CCCCBE
